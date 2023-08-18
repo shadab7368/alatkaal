@@ -584,6 +584,7 @@
     }
 }
 /* ------------------------------------------------- Tablet Screen : 768 ---------------------------------------------------*/
+
  @media (min-width: 768px) and (max-width: 991px) {
      .all_header_abs {
          position: inherit;
@@ -591,7 +592,10 @@
      .solutech-header-top {
          padding-right: 0 !important;
          padding-left: 0 !important;
-    }
+     
+        }
+
+
      .creative_header_address {
          padding-left: 10px;
     }
@@ -735,6 +739,9 @@
          font-size: 17px;
     }
     /* Em-Creative Header */
+    .gap10{
+        height: 160px;
+    }
      .top_crt_style {
          padding-bottom: 0;
     }

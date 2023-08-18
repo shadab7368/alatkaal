@@ -7123,7 +7123,7 @@ p.form-messege{
 }
  .solutech-header-top {
      background: #0c5adb;
-     padding: 10px 0;
+     padding: 1px 0;
      padding-right: 200px;
      padding-left: 200px;
 }
@@ -7171,6 +7171,7 @@ p.form-messege{
 }
  .top-right-menu .social-icons li a:hover, .top-right-menu .social-icons li a i:hover {
      color: #17161a;
+ 
 }
  .top-both-p0 .top-address p a, .top-both-p0 .top-address p span {
      margin-right: 0px;
@@ -7442,7 +7443,9 @@ p.form-messege{
      font-size: 23px;
      font-weight: 700;
      display: inline-block;
-     margin-top: 28px;
+    
+     width: 100px;
+     margin-top: 15px;
 }
  .solutech_menu {
 }
