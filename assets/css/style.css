@@ -6142,10 +6142,10 @@ p.form-messege{
      filter: grayscale(0);
 }
  .slide_items img {
-    /* width: 100%;
+     width: 100%;
      */
-     margin: auto;
-     display:none;
+     /* margin: auto; */
+     /* display:none; */
 }
 /* accordion area css */
  .accordion_area .card-header.witr_ac_card {
@@ -8545,7 +8545,7 @@ p.form-messege{
  .witrfm_area {
      background-repeat: no-repeat;
      background-position: center center;
-     background-image: url(../images/blog9.jpg);
+     background-image: url(../images/it-infra.jpg);
      background-size: cover;
      position:relative;
 }
@@ -8559,6 +8559,7 @@ p.form-messege{
      right: 0;
      margin: auto;
      background:#153d7af2;
+
 }
  .footer-middle {
      padding: 65px 0 73px;
